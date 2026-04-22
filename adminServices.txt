@@ -4,3 +4,5 @@ processing the data
 creating the avatar for admin
 
 this is new feature2 branch..
+
+admin should add and remove any member form the group
