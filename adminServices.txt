@@ -1,0 +1,4 @@
+getting the admin data...
+processing the data
+
+creating the avatar for admin
