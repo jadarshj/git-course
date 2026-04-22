@@ -6,3 +6,5 @@ creating the avatar for admin
 this is new feature2 branch..
 
 admin should add and remove any member form the group
+
+added the funcitonality for profile management in feature3
