@@ -14,3 +14,5 @@
 108 Toshiba HHD
 
 added the login functionality (need to commit in main branch)
+
+added the avatar 2.0
